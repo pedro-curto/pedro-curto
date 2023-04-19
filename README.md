@@ -9,7 +9,8 @@ My name is Pedro Curto and I'm an enthusiastic Software Developer from Lisbon, P
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
 [<img align="left" alt="C" width="36px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />][github]
 [<img align="left" alt="Assembly" width="36px" src="https://www.powerandcables.com/wp-content/uploads/2021/02/ASM-Symbol-Blue-Tight-002-min.png" />][github]
-[<img align="left" alt="Prolog" width="36px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />][github]
+[<img align="left" alt="Prolog" width="40px" src="https://plugins.jetbrains.com/files/13954/290585/icon/pluginIcon.svg" />][github]
+[<img align="left" alt="Java" width="60px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />][github]
 <br />
 
 ---
