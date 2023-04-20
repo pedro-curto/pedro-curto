@@ -1,9 +1,11 @@
 ### Hello!
 
-My name is Pedro Curto and I'm an enthusiastic Software Developer from Lisbon, Portugal.
+My name is Pedro Curto and I'm an enthusiastic Software Developer from Lisbon, Portugal. 
 
-- 🎓 Currently studying Computer Science and Engineering at Instituto Superior Técnico
-- 👨‍💻 Excited about coding and applying concepts to real world projects.
+You can reach me at pedrocurto.dev@gmail.com or on LinkedIn at linkedin.com/in/pedro-curto.
+
+- 🎓 Currently studying Computer Science and Engineering at Instituto Superior Técnico.
+- 👨‍💻 Very keen on problem solving and algorithmic exercises.
 
 ## Tools and Languages
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
