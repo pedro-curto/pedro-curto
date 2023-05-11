@@ -1,11 +1,13 @@
-### Hello!
+### Hello, and welcome to my GitHub!
 
-My name is Pedro Curto and I'm an enthusiastic Software Developer from Lisbon, Portugal. 
+My name is Pedro Curto. I'm a student from Lisbon, Portugal, with great passion for problem solving and technology.
+
+- 🎓 Currently in the 2nd year of Computer Science and Engineering at Instituto Superior Técnico.
+- 🏀 Sports enthusiast and former federate basketball player.
+- 🎷 Former saxophonist at SFUA (local philharmonic).
+- 👨‍💻 Very keen on problem solving and algorithmic exercises.
 
 You can reach me at pedroalexandrecurto@gmail.com or on LinkedIn at linkedin.com/in/pedro-curto.
-
-- 🎓 Currently studying Computer Science and Engineering at Instituto Superior Técnico.
-- 👨‍💻 Very keen on problem solving and algorithmic exercises.
 
 ## Tools and Languages
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
