@@ -2,7 +2,7 @@
 
 My name is Pedro Curto and I'm an enthusiastic Software Developer from Lisbon, Portugal. 
 
-You can reach me at pedrocurto.dev@gmail.com or on LinkedIn at linkedin.com/in/pedro-curto.
+You can reach me at pedroalexandrecurto@gmail.com or on LinkedIn at linkedin.com/in/pedro-curto.
 
 - 🎓 Currently studying Computer Science and Engineering at Instituto Superior Técnico.
 - 👨‍💻 Very keen on problem solving and algorithmic exercises.
