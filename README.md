@@ -2,7 +2,7 @@
 
 My name is Pedro Curto. I'm a student from Lisbon, Portugal, with great passion for problem solving and technology.
 
-- 🎓 Currently in the 2nd year of Computer Science and Engineering at Instituto Superior Técnico.
+- 🎓 Currently in the 3rd year of Computer Science and Engineering at Instituto Superior Técnico.
 - 🏀 Sports enthusiast and former federate basketball player.
 - 🎷 Former saxophonist at SFUA (local philharmonic).
 - 👨‍💻 Very keen on problem solving and algorithmic exercises.
