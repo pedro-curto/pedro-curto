@@ -1,6 +1,7 @@
 ### Hello, and welcome to my GitHub!
 
 My name is Pedro Curto. I'm a student from Lisbon, Portugal, with great passion for problem solving and technology.
+
 Check out my [CV](https://pedro-curto.github.io/)!
 
 - 🎓 Currently in the 1st year of my Master's Degree in Computer Science and Engineering at Instituto Superior Técnico.
