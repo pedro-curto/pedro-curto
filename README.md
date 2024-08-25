@@ -5,7 +5,7 @@ My name is Pedro Curto. I'm a student from Lisbon, Portugal, with great passion 
 - 🎓 Currently in the 1st year of my Master's Degree in Computer Science and Engineering at Instituto Superior Técnico.
 - 🏀 Sports enthusiast and former federate basketball player.
 - 🎷 Former saxophonist at SFUA (local philharmonic).
-- 👨‍💻 Very keen on problem solving and algorithmic exercises.
+- 👨‍💻 Very keen on problem solving and algorithmic exercises -- I like solving [Leetcode](https://leetcode.com/u/pedro_curto/) occasionally
 
 You can reach me at [pedroalexandrecurto@gmail.com](mailto:pedroalexandrecurto@gmail.com) or on [LinkedIn](https://linkedin.com/in/pedro-curto).
 
