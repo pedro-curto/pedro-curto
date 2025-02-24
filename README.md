@@ -2,12 +2,16 @@
 
 My name is Pedro Curto. I'm a student from Lisbon, Portugal, with great passion for problem solving and technology.
 
+In the pinned repositories, I have:
+- **ParkZ**, an award winning project I developed with a great team to **win our category** at Tecstorm
+- **CMS**, a project that I made for a recruitment that uses **Spring, Vue and TS**
+- **MEIC-projects and LEIC-projects**, two indexes, for the projects I made during my BsC and MsC
+
 Check out my [CV](https://pedro-curto.github.io/)!
 
 - 🎓 Currently in the 1st year of my Master's Degree in Computer Science and Engineering at Instituto Superior Técnico.
-- 🏀 Sports enthusiast and former federate basketball player.
-- 🎷 Former saxophonist at SFUA (local philharmonic).
 - 👨‍💻 Very keen on problem solving and algorithmic exercises -- I like solving [Leetcode](https://leetcode.com/u/pedro_curto/) occasionally
+- 🏀🎷 Former federate basketball player and former saxophonist at SFUA (local philharmonic)
 
 You can reach me at [pedroalexandrecurto@gmail.com](mailto:pedroalexandrecurto@gmail.com) or on [LinkedIn](https://linkedin.com/in/pedro-curto).
 
