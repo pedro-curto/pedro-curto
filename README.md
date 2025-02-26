@@ -2,33 +2,37 @@
 
 My name is Pedro Curto. I'm a student from Lisbon, Portugal, with great passion for problem solving and technology.
 
+- 🎓 Currently in the 1st year of my Master's Degree in Computer Science and Engineering at Instituto Superior Técnico.
+- 👨‍💻 Very keen on problem solving and algorithmic exercises -- I like solving [Leetcode](https://leetcode.com/u/pedro_curto/) occasionally
+- 🏀🎷 Former federate basketball player and former saxophonist at SFUA (local philharmonic)
+  
 In the pinned repositories, I have:
 - **ParkZ**, an award winning project I developed with a great team to **win our category** at Tecstorm
 - **CMS**, a project that I made for a recruitment that uses **Spring, Vue and TS**
 - **MEIC-projects and LEIC-projects**, two indexes, for the projects I made during my BsC and MsC
 
-Check out my [CV](https://pedro-curto.github.io/)!
-
-- 🎓 Currently in the 1st year of my Master's Degree in Computer Science and Engineering at Instituto Superior Técnico.
-- 👨‍💻 Very keen on problem solving and algorithmic exercises -- I like solving [Leetcode](https://leetcode.com/u/pedro_curto/) occasionally
-- 🏀🎷 Former federate basketball player and former saxophonist at SFUA (local philharmonic)
 
 You can reach me at [pedroalexandrecurto@gmail.com](mailto:pedroalexandrecurto@gmail.com) or on [LinkedIn](https://linkedin.com/in/pedro-curto).
 
-## Tools and Languages
-[<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="C" width="60px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />][github]
-[<img align="left" alt="Spring" width="60px" src="https://www.openxcell.com/wp-content/uploads/2021/10/springboot-inner.svg" />][github]
-[<img align="left" alt="Java" width="70px" height="60px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />][github]
-[<img align="left" alt="C++" width="50px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" />][github]
+Also, check out my [CV](https://pedro-curto.github.io/)!
 
-<br />
-<br />
+
+## Favorite Languages and Frameworks
+<div align="center">
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,ts" height="50px"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=spring,vue,pytorch" height="50px"/>
+  </p>
+</div>
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-curto&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedro-curto&count_private=true&show_icons=true&include_all_commits=true)
-
-[github]: https://github.com/pedro-curto
+<div align="center">
+  <p align="center">
+    <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedro-curto&show_icons=true&count_private=true&theme=holi" height="200px"/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-curto&langs_count=10&show_icons=true&locale=en&layout=compact&theme=holi" alt="pedro-curto" height="200px"/>
+  <br/>
+  </p>
+</div>
