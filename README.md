@@ -32,7 +32,7 @@ Also, check out my [CV](https://pedro-curto.github.io/)!
   <p align="center">
     <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedro-curto&show_icons=true&count_private=true&theme=holi" height="200px"/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-curto&langs_count=10&show_icons=true&locale=en&layout=compact&theme=holi" alt="pedro-curto" height="200px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-curto&langs_count=10&show_icons=true&locale=en&layout=compact&theme=holi&hide=jupyter%20notebook" alt="pedro-curto" height="200px"/>
   <br/>
   </p>
 </div>
